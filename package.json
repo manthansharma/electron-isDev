@@ -1,6 +1,6 @@
 {
   "name": "electron-isDev",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Check for Electron is running in development in Typescript",
   "license": "MIT",
   "repository": "manthansharma/electron-isDev",
