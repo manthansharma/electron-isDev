@@ -1,0 +1,28 @@
+{
+  "name": "electron-isDev",
+  "version": "0.1.2",
+  "description": "Check for Electron is running in development in Typescript",
+  "license": "MIT",
+  "repository": "manthansharma/electron-isDev",
+  "author": {
+    "name": "Manthan Sharma",
+    "email": "manthanfoss+github@gmail.com",
+    "url": "manthansharma.com"
+  },
+  "files": [
+    "index.ts"
+  ],
+  "keywords": [
+    "electron",
+    "dev",
+    "development",
+    "mode",
+    "prod",
+    "production",
+    "detect",
+    "check",
+    "debug",
+    "app",
+    "typescript"
+  ]
+}
